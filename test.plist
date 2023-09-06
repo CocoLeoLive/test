@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-                <string>https://github.com/CocoLeoLive/test/blob/main/itms-services____action%3Ddownload-manifest%26url%3Dhttps___raw.githubusercontent.com_CocoLeoLive_test_main_test.plist.png</string>
+                			<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/CocoLeoLive/test/blob/main/itms-services____action%3Ddownload-manifest%26url%3Dhttps___raw.githubusercontent.com_CocoLeoLive_test_main_test.plist%20(1).png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
